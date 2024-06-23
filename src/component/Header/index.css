@@ -1,0 +1,20 @@
+.headerContainer {
+  width: 100%;
+  height: 30%;
+  display: flex;
+  justify-content: space-between;
+  background-color: #152850;
+}
+.header-logo {
+  margin-left: 20px;
+  margin: 10px;
+}
+.buttonLogut {
+  background-color: transparent;
+  color: white;
+  border-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
